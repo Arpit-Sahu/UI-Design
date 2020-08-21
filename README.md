@@ -1,2 +1,2 @@
 # Web-Design
-made these web design using Figma and Adobe XD
+made these web design using Adobe XD
